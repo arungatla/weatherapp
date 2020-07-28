@@ -1,8 +1,3 @@
-// Tutorial by http://youtube.com/CodeExplained
-// api key : eba530a9e862adee48f85ffa42fc1ae5
-
-//19fe6cb396mshd2374085442c5efp195405jsn9cd305192788
-
 
 //select elements
 
